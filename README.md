@@ -1,6 +1,6 @@
 # GoLang Tutorial
 
-A collection of small Go programs for learning core concepts like variables, arrays, slices, maps, functions, methods, interfaces, pointers, recursion, and more.
+A collection of small Go programs for learning core concepts like variables, arrays, slices, maps, functions, methods, interfaces, pointers, recursion, channels, goroutines, and more.
 
 ## Prerequisites
 
@@ -44,6 +44,9 @@ Run the executable:
 ## Project Files
 
 - array.go
+- channels.go
+- channelsbuff.go
+- channelsyn.go
 - closure.go
 - customerror.go
 - embedding.go
