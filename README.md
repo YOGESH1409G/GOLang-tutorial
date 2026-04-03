@@ -45,9 +45,14 @@ Run the executable:
 
 - array.go
 - closure.go
+- customerror.go
+- embedding.go
 - enums.go
+- error.go
 - for.go
 - functions.go
+- generics.go
+- goroutine.go
 - helloworld.go
 - interface.go
 - maps.go
@@ -55,6 +60,7 @@ Run the executable:
 - multiplereturn.go
 - pointer.go
 - range.go
+- rangeoverI.go
 - recursion.go
 - rune.go
 - slices.go
